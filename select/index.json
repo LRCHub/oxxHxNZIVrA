@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "兎座ストーリー",
+  "base_artist": "兎田ぺこら",
+  "createdAt": "2026-02-27T10:00:47.796342Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "兎座ストーリー",
+      "artist": "兎田ぺこら",
+      "has_synced": false,
+      "path": "select/pl_01_兎座ストーリー_兎田ぺこら.txt"
+    }
+  ]
+}
